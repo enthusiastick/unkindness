@@ -48,7 +48,7 @@ Shrike | When you learn that you die, publicly choose a player: they die tonight
 
 Character | Text
 --- | ---
-Hawk | Each night*, choose a player: they die. When you learn that you die, publicly choose a player: if they are the Raven, good loses. [+the Raven]
+Hawk | Each night*, choose a player: they die. When you learn that you die, publicly choose a player: if they are the Raven, your team wins. [+the Raven]
 Kestrel | Each night*, choose a player: they die. Once per game, choose an additional player: they become evil.
 Owl | Each night*, choose a player: they die. If an evil character died today, choose an additional player: you learn their character.
 Vulture | Each night*, if no-one died today, choose a player: they die. Otherwise, choose a player: they are poisoned until dusk tomorrow.
