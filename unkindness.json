@@ -6,6 +6,7 @@
   },
   {
     "id": "blackbird",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/blackbird.png",
     "edition": "custom",
     "otherNight": 20,
     "reminders": ["Ability back", "No ability"],
@@ -16,6 +17,7 @@
   },
   {
     "id": "cardinal",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/cardinal.png",
     "edition": "custom",
     "otherNight": 60,
     "reminders": ["Died today", "No ability"],
@@ -26,6 +28,7 @@
   },
   {
     "id": "dove",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/dove.png",
     "edition": "custom",
     "otherNight": 15,
     "reminders": ["Dove Protected 1", "Dove Protected 2", "Dove Protected 3", "No ability"],
@@ -36,6 +39,7 @@
   },
   {
     "id": "finch",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/finch.png",
     "edition": "custom",
     "otherNight": 65,
     "setup": false,
@@ -45,6 +49,7 @@
   },
   {
     "id": "jay",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/jay.png",
     "edition": "custom",
     "otherNight": 70,
     "setup": false,
@@ -54,6 +59,7 @@
   },
   {
     "id": "magpie",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/magpie.png",
     "edition": "custom",
     "otherNight": 75,
     "setup": false,
@@ -63,6 +69,7 @@
   },
   {
     "id": "raven",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/raven.png",
     "edition": "custom",
     "otherNight": 80,
     "setup": false,
@@ -72,6 +79,7 @@
   },
   {
     "id": "robin",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/robin.png",
     "edition": "custom",
     "setup": false,
     "name": "Robin",
@@ -80,6 +88,7 @@
   },
   {
     "id": "sparrow",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/sparrow.png",
     "edition": "custom",
     "otherNight": 50,
     "setup": false,
@@ -89,6 +98,7 @@
   },
   {
     "id": "starling",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/starling.png",
     "edition": "custom",
     "otherNight": 85,
     "setup": false,
@@ -98,6 +108,7 @@
   },
   {
     "id": "thrush",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/thrush.png",
     "edition": "custom",
     "otherNight": 55,
     "setup": false,
@@ -107,6 +118,7 @@
   },
   {
     "id": "vireo",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/vireo.png",
     "edition": "custom",
     "otherNight": 90,
     "setup": false,
@@ -116,6 +128,7 @@
   },
   {
     "id": "warbler",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/warbler.png",
     "edition": "custom",
     "otherNight": 95,
     "setup": false,
