@@ -1,0 +1,249 @@
+[
+  {
+    "id": "_meta",
+    "name": "Unkindness & Murder",
+    "author": "eben"
+  },
+  {
+    "id": "blackbird",
+    "edition": "custom",
+    "otherNight": 20,
+    "reminders": ["Ability back", "No ability"],
+    "setup": false,
+    "name": "Blackbird",
+    "team": "townsfolk",
+    "ability": "When you learn that you died, publicly choose 1 dead player: they regain their ability (if necessary, causing it to function twice.)"
+  },
+  {
+    "id": "cardinal",
+    "edition": "custom",
+    "otherNight": 60,
+    "reminders": ["Died today", "No ability"],
+    "setup": false,
+    "name": "Cardinal",
+    "team": "townsfolk",
+    "ability": "When you learn that you died, tonight you learn how many of your 2 living neighbors are evil."
+  },
+  {
+    "id": "dove",
+    "edition": "custom",
+    "otherNight": 15,
+    "reminders": ["Dove Protected 1", "Dove Protected 2", "Dove Protected 3", "No ability"],
+    "setup": false,
+    "name": "Dove",
+    "team": "townsfolk",
+    "ability": "When you learn that you died, publicly choose 1 alive player: for 3 nights (starting tonight) they are safe from the Demon."
+  },
+  {
+    "id": "finch",
+    "edition": "custom",
+    "otherNight": 65,
+    "setup": false,
+    "name": "Finch",
+    "team": "townsfolk",
+    "ability": "When you learn that you died, publicly choose 1 alive player: that night, you learn their character."
+  },
+  {
+    "id": "jay",
+    "edition": "custom",
+    "otherNight": 70,
+    "setup": false,
+    "name": "Jay",
+    "team": "townsfolk",
+    "ability": "When you learn that you died, publicly choose 1 player: that night, they learn who you are."
+  },
+  {
+    "id": "magpie",
+    "edition": "custom",
+    "otherNight": 75,
+    "setup": false,
+    "name": "Magpie",
+    "team": "townsfolk",
+    "ability": "If you die at night, you are woken to choose 2 players: you learn 2 characters (but not which is which.)"
+  },
+  {
+    "id": "raven",
+    "edition": "custom",
+    "otherNight": 80,
+    "setup": false,
+    "name": "Raven",
+    "team": "townsfolk",
+    "ability": "When you learn that you died, tonight you learn how many steps between you and the nearest living evil player."
+  },
+  {
+    "id": "robin",
+    "edition": "custom",
+    "setup": false,
+    "name": "Robin",
+    "team": "townsfolk",
+    "ability": "If you die at night, you live but register as dead."
+  },
+  {
+    "id": "sparrow",
+    "edition": "custom",
+    "otherNight": 50,
+    "setup": false,
+    "name": "Sparrow",
+    "team": "townsfolk",
+    "ability": "Once per game, during the day, publicly choose a player: if they are Evil, they die. If not, you do."
+  },
+  {
+    "id": "starling",
+    "edition": "custom",
+    "otherNight": 85,
+    "setup": false,
+    "name": "Starling",
+    "team": "townsfolk",
+    "ability": "If you die at night, you learn 2 players, at least one of whom is evil."
+  },
+  {
+    "id": "thrush",
+    "edition": "custom",
+    "otherNight": 55,
+    "setup": false,
+    "name": "Thrush",
+    "team": "townsfolk",
+    "ability": "The 1st time you are nominated, if the nominator is good, they die tonight."
+  },
+  {
+    "id": "vireo",
+    "edition": "custom",
+    "otherNight": 90,
+    "setup": false,
+    "name": "Vireo",
+    "team": "townsfolk",
+    "ability": "If you die at night, you learn one evil character in play."
+  },
+  {
+    "id": "warbler",
+    "edition": "custom",
+    "otherNight": 95,
+    "setup": false,
+    "name": "Warbler",
+    "team": "townsfolk",
+    "ability": "If you are executed, tonight you learn how many dead players are good. If you die at night, you learn how many dead players are evil."
+  },
+  {
+    "id": "grackle",
+    "edition": "custom",
+    "otherNight": 10,
+    "reminders": ["Drunk"],
+    "setup": true,
+    "name": "Grackle",
+    "team": "outsider",
+    "ability": "Each night, you or one of your Townsfolk neighbors become drunk until tomorrow night. [-1 Outsider]"
+  },
+  {
+    "id": "junco",
+    "edition": "custom",
+    "otherNight": 35,
+    "setup": false,
+    "name": "Junco",
+    "team": "outsider",
+    "ability": "If you are executed, tonight you are woken to choose a player: if good, they die."
+  },
+  {
+    "id": "mallard",
+    "edition": "custom",
+    "setup": false,
+    "name": "Mallard",
+    "otherNight": 40,
+    "team": "outsider",
+    "ability": "Each night, if no player said ‘quack’ today, a player might die."
+  },
+  {
+    "id": "osprey",
+    "edition": "custom",
+    "setup": false,
+    "name": "Osprey",
+    "otherNight": 45,
+    "team": "outsider",
+    "ability": "A player might die at any time."
+  },
+  {
+    "id": "eagle",
+    "edition": "custom",
+    "firstNight": 5,
+    "setup": true,
+    "name": "Eagle",
+    "team": "minion",
+    "ability": "You might register as good or a Townsfolk. You start knowing the character of one of your neighbors (and which neighbor specifically.) [+1 Outsider]"
+  },
+  {
+    "id": "falcon",
+    "edition": "custom",
+    "otherNight": 100,
+    "setup": false,
+    "name": "Falcon",
+    "team": "minion",
+    "ability": "Each night, choose a player: you learn their character."
+  },
+  {
+    "id": "kite",
+    "edition": "custom",
+    "otherNight": 5,
+    "reminders": ["Poisoned"],
+    "setup": false,
+    "name": "Kite",
+    "team": "minion",
+    "ability": "When you learn that you die, publicly choose a player: they are poisoned for the rest of the game, even if you are dead."
+  },
+  {
+    "id": "shrike",
+    "edition": "custom",
+    "otherNight": 25,
+    "reminders": ["Dead"],
+    "setup": false,
+    "name": "Shrike",
+    "team": "minion",
+    "ability": "When you learn that you die, publicly choose a player: they die tonight."
+  },
+  {
+    "id": "hawk",
+    "edition": "custom",
+    "otherNight": 30,
+    "reminders": ["Dead"],
+    "setup": true,
+    "name": "Hawk",
+    "team": "demon",
+    "ability": "Each night*, choose a player: they die. When you learn that you die, publicly choose a player: if they are the Raven, good loses. [+the Raven]"
+  },
+  {
+    "id": "kestrel",
+    "edition": "custom",
+    "otherNight": 30,
+    "reminders": ["Dead"],
+    "setup": false,
+    "name": "Kestrel",
+    "team": "demon",
+    "ability": "Each night*, choose a player: they die. Once per game, choose an additional player: they become evil."
+  },
+  {
+    "id": "owl",
+    "edition": "custom",
+    "otherNight": 30,
+    "reminders": ["Dead"],
+    "setup": false,
+    "name": "Owl",
+    "team": "demon",
+    "ability": "Each night*, choose a player: they die. If an evil character died today, choose an additional player: you learn their character."
+  },
+  {
+    "id": "vulture",
+    "edition": "custom",
+    "otherNight": 30,
+    "reminders": ["Dead", "Poisoned"],
+    "setup": false,
+    "name": "Vulture",
+    "team": "demon",
+    "ability": "Each night*, if no-one died today, choose a player: they die. Otherwise, choose a player: they are poisoned until dusk tomorrow."
+  },
+  {
+    "id": "birdcalls",
+    "edition": "custom",
+    "setup": false,
+    "name": "Bird Calls",
+    "team": "fabled",
+    "ability": "Players making public declarations are not required to openly specify as what character they are declaring."
+  }
+]
