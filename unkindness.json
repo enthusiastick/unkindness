@@ -149,7 +149,7 @@
     "name": "Mallard",
     "otherNight": 40,
     "team": "outsider",
-    "ability": "Each night, if no player said ‘quack’ today, a player might die."
+    "ability": "Each night, if no Townsfolk said ‘quack’ today, a player might die. If you are \"mad\" about being the Mallard, someone might be executed."
   },
   {
     "id": "osprey",
@@ -206,7 +206,7 @@
     "setup": true,
     "name": "Hawk",
     "team": "demon",
-    "ability": "Each night*, choose a player: they die. When you learn that you die, publicly choose a player: if they are the Raven, your team wins. [+the Raven]"
+    "ability": "Each night*, choose a player: they die. When you learn that you die, publicly choose a player: if they are the Raven, your team wins instead. [+the Raven]"
   },
   {
     "id": "kestrel",

@@ -32,7 +32,7 @@ Character | Text
 --- | ---
 Grackle | Each night, you or one of your Townsfolk neighbors become drunk until tomorrow night. [-1 Outsider]
 Junco | If you are executed, tonight you are woken to choose a player: if good, they die.
-Mallard | Each night, if no player said ‘quack’ today, a player might die.
+Mallard | Each night, if no Townsfolk said ‘quack’ today, a player might die. If you are \"mad\" about being the Mallard, someone might be executed.
 Osprey | A player might die at any time.
 
 ### Minion
@@ -48,7 +48,7 @@ Shrike | When you learn that you die, publicly choose a player: they die tonight
 
 Character | Text
 --- | ---
-Hawk | Each night*, choose a player: they die. When you learn that you die, publicly choose a player: if they are the Raven, your team wins. [+the Raven]
+Hawk | Each night*, choose a player: they die. When you learn that you die, publicly choose a player: if they are the Raven, your team wins instead. [+the Raven]
 Kestrel | Each night*, choose a player: they die. Once per game, choose an additional player: they become evil.
 Owl | Each night*, choose a player: they die. If an evil character died today, choose an additional player: you learn their character.
 Vulture | Each night*, if no-one died today, choose a player: they die. Otherwise, choose a player: they are poisoned until dusk tomorrow.
