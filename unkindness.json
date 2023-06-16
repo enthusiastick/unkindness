@@ -265,6 +265,7 @@
   },
   {
     "id": "birdcalls",
+    "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/birdcalls.png",
     "edition": "custom",
     "setup": false,
     "name": "Bird Calls",
