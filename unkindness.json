@@ -186,7 +186,7 @@
     "name": "Osprey",
     "otherNight": 45,
     "team": "outsider",
-    "ability": "A player might die at any time."
+    "ability": "Once per game, a player might die at any time."
   },
   {
     "id": "eagle",
