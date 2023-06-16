@@ -42,7 +42,7 @@ Icon | Character | Text
 ![Eagle](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/eagle.png) | Eagle | You might register as good or a Townsfolk. You start knowing the character of one of your neighbors (and which neighbor specifically.) [+1 Outsider]
 ![Falcon](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/falcon.png) | Falcon | Each night, choose a player: you learn their character.
 ![Kite](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/kite.png) | Kite | When you learn that you die, publicly choose a player: they are poisoned for the rest of the game, even if you are dead.
-![Shrike](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/shrike.png) | Shrike | When you learn that you die, publicly choose a player: they die tonight.
+![Shrike](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/shrike.png) | Shrike | When you learn that you died, publicly choose a player: they die tonight.
 
 ### Demon
 
