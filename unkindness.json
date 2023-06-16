@@ -207,7 +207,7 @@
     "setup": false,
     "name": "Kite",
     "team": "minion",
-    "ability": "When you learn that you die, publicly choose a player: they are poisoned for the rest of the game, even if you are dead."
+    "ability": "When you learn that you died, publicly choose a player: they are poisoned for the rest of the game, even if you are dead."
   },
   {
     "id": "shrike",
