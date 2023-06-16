@@ -138,6 +138,7 @@
   },
   {
     "id": "grackle",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/grackle.png",
     "edition": "custom",
     "otherNight": 10,
     "reminders": ["Drunk"],
@@ -148,6 +149,7 @@
   },
   {
     "id": "junco",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/junco.png",
     "edition": "custom",
     "otherNight": 35,
     "setup": false,
@@ -157,6 +159,7 @@
   },
   {
     "id": "mallard",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/mallard.png",
     "edition": "custom",
     "setup": false,
     "name": "Mallard",
@@ -166,6 +169,7 @@
   },
   {
     "id": "osprey",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/osprey.png",
     "edition": "custom",
     "setup": false,
     "name": "Osprey",
@@ -175,6 +179,7 @@
   },
   {
     "id": "eagle",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/eagle.png",
     "edition": "custom",
     "firstNight": 5,
     "setup": true,
@@ -184,6 +189,7 @@
   },
   {
     "id": "falcon",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/falcon.png",
     "edition": "custom",
     "otherNight": 100,
     "setup": false,
@@ -193,6 +199,7 @@
   },
   {
     "id": "kite",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/kite.png",
     "edition": "custom",
     "otherNight": 5,
     "reminders": ["Poisoned"],
@@ -203,6 +210,7 @@
   },
   {
     "id": "shrike",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/shrike.png",
     "edition": "custom",
     "otherNight": 25,
     "reminders": ["Dead"],
@@ -213,6 +221,7 @@
   },
   {
     "id": "hawk",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/hawk.png",
     "edition": "custom",
     "otherNight": 30,
     "reminders": ["Dead"],
@@ -223,6 +232,7 @@
   },
   {
     "id": "kestrel",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/kestrel.png",
     "edition": "custom",
     "otherNight": 30,
     "reminders": ["Dead"],
@@ -233,6 +243,7 @@
   },
   {
     "id": "owl",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/owl.png",
     "edition": "custom",
     "otherNight": 30,
     "reminders": ["Dead"],
@@ -243,6 +254,7 @@
   },
   {
     "id": "vulture",
+    "imgage": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/vulture.png",
     "edition": "custom",
     "otherNight": 30,
     "reminders": ["Dead", "Poisoned"],
