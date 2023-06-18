@@ -284,7 +284,7 @@
     "name": "Albatross",
     "team": "traveler",
     "ability": "Each day, publicly choose a player (not yourself): they must invite you to all private whisper conversations today."
-  },
+  }
   {
     "id": "crow",
     "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/crow.png",
@@ -296,6 +296,16 @@
     "ability": "On your 1st night, you gain a Townsfolk or Minion ability of a character in play. If your ability reads, \"When you learn that you died\" it is amended to, \"When you learn that you died or are exiled.\""
   },
   {
+    "id": "cuckoo",
+    "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/cuckoo.png",
+    "edition": "custom",
+    "reminders": ["No Vote"],
+    "setup": false,
+    "name": "Cuckoo",
+    "team": "traveler",
+    "ability": "Each night, choose a player (not yourself): their vote is not counted tomorrow (dead players you have chosen cannot lose their token.)"
+  },
+  {
     "id": "goose",
     "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/goose.png",
     "edition": "custom",
@@ -304,6 +314,15 @@
     "name": "Goose",
     "team": "traveler",
     "ability": "Each day when the Storyteller opens nominations, publicly choose players; you must choose at least one living player (not yourself.) Only you and players you chose may vote, today."
+  },
+  {
+    "id": "woodpecker",
+    "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/woodpecker.png",
+    "edition": "custom",
+    "setup": false,
+    "name": "Woodpecker",
+    "team": "traveler",
+    "ability": "Only dead players may nominate, but each may do so up to 3 times per day."
   },
   {
     "id": "badelynge",
