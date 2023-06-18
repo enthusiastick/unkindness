@@ -12,14 +12,14 @@ Icon | Character | Text
 
 Icon | Character | Text
 --- | --- | ---
-![Blackbird](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/blackbird.png) | Blackbird | When you learn that you died, publicly choose 1 dead player: they regain their ability (if necessary, causing it to function twice.)
 ![Cardinal](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/cardinal.png) | Cardinal | When you learn that you died, tonight you learn how many of your 2 living neighbors are evil.
 ![Dove](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/dove.png) | Dove | When you learn that you died, publicly choose 1 alive player: for 3 nights (starting tonight) they are safe from the Demon.
 ![Finch](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/finch.png) | Finch | When you learn that you died, publicly choose 1 alive player: that night, you learn their character.
 ![Jay](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/jay.png) | Jay | When you learn that you died, publicly choose 1 player: that night, they learn who you are.
 ![Magpie](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/magpie.png) | Magpie | If you die at night, you are woken to choose 2 players: you learn 2 characters (but not which is which.)
+![Mockingbird](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/mockingbird.png) | Mockingbird | When you learn that you died, publicly choose 1 dead player: they regain their ability (if necessary, causing it to function twice.)
 ![Raven](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/raven.png) | Raven | When you learn that you died, tonight you learn how many steps between you and the nearest living evil player.
-![Robin](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/robin.png) | Robin | If you die at night, you live but register as dead.
+![Robin](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/robin.png) | Robin | The first time you die at night, you live but register as dead. Once per game at night you may choose to return to life.
 ![Sparrow](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/sparrow.png) | Sparrow | Once per game, during the day, publicly choose a player: if they are Evil, they die. If not, you do.
 ![Starling](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/starling.png) | Starling | If you die at night, you learn 2 players, at least one of whom is evil.
 ![Thrush](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/thrush.png) | Thrush | The 1st time you are nominated, if the nominator is good, they die tonight.
@@ -32,7 +32,7 @@ Icon | Character | Text
 --- | --- | ---
 ![Grackle](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/grackle.png) | Grackle | Each night, you or one of your Townsfolk neighbors become drunk until tomorrow night. [-1 Outsider]
 ![Junco](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/junco.png) | Junco | If you are executed, tonight you are woken to choose a player: if good, they die.
-![Mallard](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/mallard.png) | Mallard | Each night, if no Townsfolk said ‘quack’ today, a player might die. If you are \"mad\" about being the Mallard, someone might be executed.
+![Mallard](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/mallard.png) | Mallard | Each night*, if no Townsfolk said ‘quack’ today, a player might die. If you are \"mad\" about being the Mallard, someone might be executed.
 ![Osprey](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/osprey.png) | Osprey | Once per game, a player might die at any time.
 
 ### Minion

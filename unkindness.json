@@ -6,17 +6,6 @@
     "logo": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/logo.png"
   },
   {
-    "id": "blackbird",
-    "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/blackbird.png",
-    "edition": "custom",
-    "otherNight": 20,
-    "reminders": ["Ability back", "No ability"],
-    "setup": false,
-    "name": "Blackbird",
-    "team": "townsfolk",
-    "ability": "When you learn that you died, publicly choose 1 dead player: they regain their ability (if necessary, causing it to function twice.)"
-  },
-  {
     "id": "cardinal",
     "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/cardinal.png",
     "edition": "custom",
@@ -71,6 +60,17 @@
     "ability": "If you die at night, you are woken to choose 2 players: you learn 2 characters (but not which is which.)"
   },
   {
+    "id": "mockingbird",
+    "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/mockingbird.png",
+    "edition": "custom",
+    "otherNight": 20,
+    "reminders": ["Ability back", "No ability"],
+    "setup": false,
+    "name": "Mockingbird",
+    "team": "townsfolk",
+    "ability": "When you learn that you died, publicly choose 1 dead player: they regain their ability (if necessary, causing it to function twice.)"
+  },
+  {
     "id": "raven",
     "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/raven.png",
     "edition": "custom",
@@ -89,7 +89,7 @@
     "setup": false,
     "name": "Robin",
     "team": "townsfolk",
-    "ability": "If you die at night, you live but register as dead."
+    "ability": "The first time you die at night, you live but register as dead. Once per game at night you may choose to return to life."
   },
   {
     "id": "sparrow",
@@ -175,7 +175,7 @@
     "name": "Mallard",
     "otherNight": 40,
     "team": "outsider",
-    "ability": "Each night, if no Townsfolk said ‘quack’ today, a player might die. If you are \"mad\" about being the Mallard, someone might be executed."
+    "ability": "Each night*, if no Townsfolk said ‘quack’ today, a player might die. If you are \"mad\" about being the Mallard, someone might be executed."
   },
   {
     "id": "osprey",
