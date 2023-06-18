@@ -175,7 +175,7 @@
     "name": "Mallard",
     "otherNight": 40,
     "team": "outsider",
-    "ability": "Each night*, if no Townsfolk said ‘quack’ today, a player might die. If you are \"mad\" about being the Mallard, someone might be executed."
+    "ability": "Each night*, if no Townsfolk said ‘quack’ today, a player might die. Once per game, if an evil player said ‘quack’ today, a dead evil player might be resurrected tonight. If you are \"mad\" about being the Mallard, someone might be executed."
   },
   {
     "id": "osprey",

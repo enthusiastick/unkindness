@@ -33,7 +33,7 @@ Icon | Character | Text
 --- | --- | ---
 ![Grackle](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/grackle.png) | Grackle | Each night, you or one of your Townsfolk neighbors become drunk until tomorrow night. [-1 Outsider]
 ![Junco](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/junco.png) | Junco | If you are executed, tonight you are woken to choose a player: if good, they die.
-![Mallard](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/mallard.png) | Mallard | Each night*, if no Townsfolk said ‘quack’ today, a player might die. If you are \"mad\" about being the Mallard, someone might be executed.
+![Mallard](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/mallard.png) | Mallard | Each night*, if no Townsfolk said ‘quack’ today, a player might die. Once per game, if an evil player said ‘quack’ today, a dead evil player might be resurrected tonight. If you are \"mad\" about being the Mallard, someone might be executed.
 ![Osprey](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/osprey.png) | Osprey | Once per game, a player might die at any time.
 
 ### Minion
