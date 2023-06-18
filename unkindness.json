@@ -273,7 +273,7 @@
     "setup": false,
     "name": "Vulture",
     "team": "demon",
-    "ability": "Each night*, if no-one died today, choose a player: they die. Otherwise, choose a player: they are poisoned until dusk tomorrow."
+    "ability": "Each night*, choose a player: they die. If no one died today, choose an additional player: they are poisoned until dusk tomorrow."
   },
   {
     "id": "birdcalls",
