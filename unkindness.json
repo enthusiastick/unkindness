@@ -284,7 +284,7 @@
     "name": "Albatross",
     "team": "traveler",
     "ability": "Each day, publicly choose a player (not yourself): they must invite you to all private whisper conversations today."
-  }
+  },
   {
     "id": "crow",
     "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/crow.png",
