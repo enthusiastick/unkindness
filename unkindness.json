@@ -276,6 +276,36 @@
     "ability": "Each night*, choose a player: they die. If no one died today, choose an additional player: they are poisoned until dusk tomorrow."
   },
   {
+    "id": "albatross",
+    "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/albatross.png",
+    "edition": "custom",
+    "reminders": ["Chosen"],
+    "setup": false,
+    "name": "Albatross",
+    "team": "traveler",
+    "ability": "Each day, publicly choose a player (not yourself): they must invite you to all private whisper conversations today."
+  },
+  {
+    "id": "crow",
+    "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/crow.png",
+    "edition": "custom",
+    "reminders": ["Chosen"],
+    "setup": false,
+    "name": "Crow",
+    "team": "traveler",
+    "ability": "On your 1st night, you gain a Townsfolk or Minion ability of a character in play. If your ability reads, \"When you learn that you died\" it is amended to, \"When you learn that you died or are exiled.\""
+  },
+  {
+    "id": "goose",
+    "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/goose.png",
+    "edition": "custom",
+    "reminders": ["May Vote"],
+    "setup": false,
+    "name": "Goose",
+    "team": "traveler",
+    "ability": "Each day when the Storyteller opens nominations, publicly choose players; you must choose at least one living player (not yourself.) Only you and players you chose may vote, today."
+  },
+  {
     "id": "badelynge",
     "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/badelynge.png",
     "edition": "custom",
