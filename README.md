@@ -6,6 +6,7 @@
 
 Icon | Character | Text
 --- | --- | ---
+(coming soon) | Badelynge | Each day, 3 players may publicly say ‘quack’.
 ![Bird Calls](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/birdcalls.png) | Bird Calls | Players making public declarations are not required to openly specify as what character they are declaring.
 
 ### Townsfolk

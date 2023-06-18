@@ -276,6 +276,14 @@
     "ability": "Each night*, choose a player: they die. If no one died today, choose an additional player: they are poisoned until dusk tomorrow."
   },
   {
+    "id": "badelynge",
+    "edition": "custom",
+    "setup": false,
+    "name": "Badelynge",
+    "team": "fabled",
+    "ability": "Each day, 3 players may publicly say ‘quack’."
+  },
+  {
     "id": "birdcalls",
     "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/birdcalls.png",
     "edition": "custom",
