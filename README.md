@@ -53,3 +53,13 @@ Icon | Character | Text
 ![Kestrel](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/kestrel.png) | Kestrel | Each night*, choose a player: they die. Once per game, choose an additional player: they become evil.
 ![Owl](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/owl.png) | Owl | Each night*, choose a player: they die. If an evil character died today, choose an additional player: you learn their character.
 ![Vulture](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/vulture.png) | Vulture | Each night*, choose a player: they die. If no one died today, choose an additional player: they are poisoned until dusk tomorrow.
+
+### Traveller
+
+Icon | Character | Text
+--- | --- | ---
+![Albatross](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/albatross.png) | Albatross | Each day, publicly choose a player (not yourself): they must invite you to all private whisper conversations today.
+![Crow](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/crow.png) | Crow | On your 1st night, you gain a Townsfolk or Minion ability of a character in play. If your ability reads, \"When you learn that you died\" it is amended to, \"When you learn that you died or are exiled.\"
+![Cuckoo](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/cuckoo.png) | Cuckoo | Each night, choose a player (not yourself): their vote is not counted tomorrow (dead players you have chosen cannot lose their token.)
+![Goose](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/goose.png) | Goose | Each day when the Storyteller opens nominations, publicly choose players; you must choose at least one living player (not yourself.) Only you and players you chose may vote, today.
+![Woodpecker](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/woodpecker.png) | Woodpecker | Only dead players may nominate, but each may do so up to 3 times per day.
