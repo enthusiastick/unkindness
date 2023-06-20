@@ -322,7 +322,7 @@
     "setup": false,
     "name": "Woodpecker",
     "team": "traveler",
-    "ability": "Only dead players may nominate, but each may do so up to 3 times per day."
+    "ability": "Only you & the dead can nominate, but dead players may nominate up to 3 times per day."
   },
   {
     "id": "badelynge",
