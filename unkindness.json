@@ -170,7 +170,7 @@
     "id": "mallard",
     "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/mallard.png",
     "edition": "custom",
-    "reminders": ["Quack!"],
+    "remindersGlobal": ["Quacked Today"],
     "setup": false,
     "name": "Mallard",
     "otherNight": 40,
