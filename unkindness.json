@@ -203,6 +203,7 @@
     "id": "falcon",
     "image": "https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/falcon.png",
     "edition": "custom",
+    "firstNight": 100,
     "otherNight": 100,
     "setup": false,
     "name": "Falcon",
