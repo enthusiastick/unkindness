@@ -89,7 +89,7 @@
     "setup": false,
     "name": "Robin",
     "team": "townsfolk",
-    "ability": "The first time you die at night, you live but register as dead. Once per game at night you may choose to return to life."
+    "ability": "The first time you die, you live but register as dead. Once per game at night you may choose to return to life."
   },
   {
     "id": "sparrow",

@@ -20,7 +20,7 @@ Icon | Character | Text
 ![Magpie](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/magpie.png) | Magpie | If you die at night, you are woken to choose 2 players: you learn 2 characters (but not which is which.)
 ![Mockingbird](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/mockingbird.png) | Mockingbird | When you learn that you died, publicly choose 1 dead player: they regain their ability (if necessary, causing it to function twice.)
 ![Raven](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/raven.png) | Raven | When you learn that you died, tonight you learn how many steps between you and the nearest living evil player.
-![Robin](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/robin.png) | Robin | The first time you die at night, you live but register as dead. Once per game at night you may choose to return to life.
+![Robin](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/robin.png) | Robin | The first time you die, you live but register as dead. Once per game at night you may choose to return to life.
 ![Sparrow](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/sparrow.png) | Sparrow | Once per game, during the day, publicly choose a player: if they are Evil, they die. If not, you do.
 ![Starling](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/starling.png) | Starling | If you die at night, you learn 2 players, at least one of whom is evil.
 ![Thrush](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/thrush.png) | Thrush | The 1st time you are nominated, if the nominator is good, they die tonight.
