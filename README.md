@@ -49,7 +49,7 @@ Icon | Character | Text
 
 Icon | Character | Text
 --- | --- | ---
-![Hawk](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/hawk.png) | Hawk | Each night*, choose a player: they die. When you learn that you die, publicly choose a player: if they are the Raven, your team wins instead. [+the Raven]
+![Hawk](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/hawk.png) | Hawk | Each night*, choose a player: they die. When you learn that you die, publicly choose a living player: if they are the Raven, your team wins instead. [+the Raven]
 ![Kestrel](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/kestrel.png) | Kestrel | Each night*, choose a player: they die. Once per game, choose an additional player: they become evil.
 ![Owl](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/owl.png) | Owl | Each night*, choose a player: they die. If an evil character died today, choose an additional player: you learn their character.
 ![Vulture](https://raw.githubusercontent.com/enthusiastick/unkindness/main/img/scaled/vulture.png) | Vulture | Each night*, choose a player: they die. If no one died today, choose an additional player: they are poisoned until dusk tomorrow.

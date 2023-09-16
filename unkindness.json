@@ -241,7 +241,7 @@
     "setup": true,
     "name": "Hawk",
     "team": "demon",
-    "ability": "Each night*, choose a player: they die. When you learn that you die, publicly choose a player: if they are the Raven, your team wins instead. [+the Raven]"
+    "ability": "Each night*, choose a player: they die. When you learn that you die, publicly choose a living player: if they are the Raven, your team wins instead. [+the Raven]"
   },
   {
     "id": "kestrel",
